@@ -1,0 +1,29 @@
+XML
+	all tags are valid
+	
+	XML does not require this line but if it is inclueded it must be first
+	<?xml version="1.0" encoding="UTF-8"?> 
+	
+	all documents require a closing tag
+	close documents in the order you open them
+
+	< will generate an error as it is a reserved character
+	use &lt; instead
+	
+	error:	use instead:
+
+	<	&lt;
+	>	&gt;
+	&	&amp;
+	'	&apos;
+	"	&quot;
+
+	<!-- This is a comment -->
+	XML does not remove whitespace
+	
+	avoid attributes if:
+		multiple values required
+		tree structure 
+		the value must be expanded or changed
+
+	

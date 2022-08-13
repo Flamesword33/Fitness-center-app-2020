@@ -1,0 +1,29 @@
+The Manifesto of Agile software engineering 
+	Individuals and interations ofver processes and tools
+	Working software over comprehensive documentation
+	Customer collabeoration over contract negotiation
+	Responding to change over following a plan
+	
+Agile development is 
+	a mindset
+	a methodology
+		scrum
+		XP
+		rad
+		feature driven development
+
+Enven in agile
+	there can be too many rules
+		which may slow down the processes
+		EG) Given - When- Then
+			Writing of acceptance tests (correspond to user stories):
+				(Given) some context
+				(when) some action is carried out
+				(then) a particular set of observable consequences should obtain
+				
+EXAMPLE:
+	Given user bank account is positive and no withdrawals made recently
+	when user attempts to withdraw funds 
+	then user is able to withdraw funds and a new ballance is given
+	
+
