@@ -6,4 +6,4 @@ hours of operation and location.
 
 Currently broken as a phone app, 
 remade using html, css and javascript in 
-web-development-projects/2024/workout-app repository.
+[web-development-projects/2024/workout-app](https://github.com/Flamesword33/web-development-projects/tree/main/2024/workout-app) repository.
